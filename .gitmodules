@@ -1,3 +1,3 @@
 [submodule "limit-service"]
 	path = limit-service
-	url = ./limit-service
+	url = https://github.com/DanishKhan1492/limit-service
