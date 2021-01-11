@@ -7,3 +7,12 @@
 [submodule "configuration-repo"]
 	path = configuration-repo
 	url = https://github.com/DanishKhan1492/configuration-rep.git
+[submodule "currency-conversion-service"]
+	path = currency-conversion-service
+	url = https://github.com/DanishKhan1492/currency-conversion-service
+[submodule "currency-exchange-service"]
+	path = currency-exchange-service
+	url = https://github.com/DanishKhan1492/currency-exchange-service
+[submodule "eureka-naming-server"]
+	path = eureka-naming-server
+	url = https://github.com/DanishKhan1492/eureka-naming-server
